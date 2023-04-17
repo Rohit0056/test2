@@ -1,0 +1,2 @@
+when any new commit/changes are saved in the remote repo or push haapend to remo repo
+build should be autumatically triggered in the jenkins console as the gitscm is polled.
